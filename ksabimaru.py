@@ -31,7 +31,7 @@ print("""
 |_/    \/\_______)|/     \||/ \___/ \_______/|/     \||/     \||/   \__/(_______)
                                                                                  
 """)
-print("Welcome to the first iteration of KSUBAMIRAU V 1.0\n")
+print("Welcome to the first iteration of KSUBAMIRAU V 1.01\n")
 
 print("To write any data for the database, press 1.\n")
 print("To find data for a specific date, press 2.\n")
